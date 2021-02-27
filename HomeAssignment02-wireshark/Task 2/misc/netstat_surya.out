@@ -1,0 +1,527 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 surya.cse.iitb.ac.i:ssh 10.175.20.176:62971     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh bharat-desktop.lo:38216 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:42009 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:39793 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:41146 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 180.151.244.118.re:3546 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:40738 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:58538 jeeves.cse.iitb.ac:smtp TIME_WAIT  
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:40803 ESTABLISHED
+tcp        0      0 localhost:38278         localhost:6016          ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:41149 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.16.100:58433     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imaps 10.161.20.58:61330      ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:58966 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh ramesh-pc.cfdvs.i:36100 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:58129 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:59148 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.16.100:58473     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:41148 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:59595 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:60286 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:33968 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 180.151.244.118.re:3350 ESTABLISHED
+tcp      197      0 surya.cse.iitb.ac:49306 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.28.168:54450     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:37101 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:34661 ESTABLISHED
+tcp      181      0 surya.cse.iitb.ac:49304 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 localhost:47228         localhost:6015          ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 10.129.133.93:35648     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh uday-pc.cse.iitb.:58481 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:39950 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 180.151.244.118.re:1159 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:60055 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:58527 jeeves.cse.iitb.ac:smtp TIME_WAIT  
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:59119 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:58965 ESTABLISHED
+tcp       85      0 surya.cse.iitb.ac:49302 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:58373 surya.cse.iitb.ac.i:ssh ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:41145 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:42493 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:60292 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:42037 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.28.168:54520     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.28.168:54440     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:42369 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:58124 ESTABLISHED
+tcp        0      0 localhost:6016          localhost:38278         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:55128 ESTABLISHED
+tcp        0      0 localhost:6011          localhost:34605         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh surya.cse.iitb.ac:58373 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 10.129.133.93:35229     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.28.168:54449     ESTABLISHED
+tcp        0      0 localhost:6015          localhost:47228         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:32945 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:60362 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh rkj-pc.it.iitb.ac:60467 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.163.20.144:47158     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh bharat-desktop.lo:37897 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:60387 ESTABLISHED
+tcp      293      0 surya.cse.iitb.ac:49299 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 10.175.20.176:65480     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.16.100:33015     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.16.100:58432     ESTABLISHED
+tcp        0      0 localhost:6011          localhost:34604         ESTABLISHED
+tcp       85      0 surya.cse.iitb.ac:49301 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 localhost:34604         localhost:6011          ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.163.20.144:47184     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:36273 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 10.129.16.100:37773     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 10.129.5.183:45833      ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:43151 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:42008 10.129.2.5:ldap         ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 jeeves.cse.iitb.a:40804 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 10.129.5.116:46904      ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imaps 10.161.20.58:61299      ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.129.16.100:58148     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.163.20.144:47157     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 180.151.244.118.re:1060 ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac.i:ssh 180.151.244.118.re:1158 ESTABLISHED
+tcp        0      0 localhost:34605         localhost:6011          ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 10.163.20.144:47171     ESTABLISHED
+tcp        0      0 surya.cse.iitb.ac:imap2 sudarshan-pc.cse.:58970 ESTABLISHED
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59183 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59180 TIME_WAIT  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59280 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59095 TIME_WAIT  
+tcp6       0 149568 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59227 ESTABLISHED
+tcp6       0 121376 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:58425 ESTABLISHED
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59104 TIME_WAIT  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59223 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59252 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59259 FIN_WAIT2  
+tcp6       0 115509 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59264 FIN_WAIT1  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59232 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59226 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59282 ESTABLISHED
+tcp6       0 108640 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:58423 ESTABLISHED
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59253 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59287 ESTABLISHED
+tcp6       0  75122 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:58761 FIN_WAIT1  
+tcp6       0 113009 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59255 FIN_WAIT1  
+tcp6       0 123009 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59138 FIN_WAIT1  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:59190 FIN_WAIT2  
+tcp6       0      0 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:58377 TIME_WAIT  
+tcp6       0  66422 surya.cse.iitb.ac.:http bhim.cse.iitb.ac.:58821 FIN_WAIT1  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  2      [ ]         DGRAM                    8352     /var/spool/postfix/dev/log
+unix  43     [ ]         DGRAM                    8334     /dev/log
+unix  3      [ ]         STREAM     CONNECTED     3976447  
+unix  3      [ ]         STREAM     CONNECTED     2817076  
+unix  3      [ ]         STREAM     CONNECTED     2019441  /var/run/dovecot/anvil
+unix  2      [ ]         DGRAM                    26501    
+unix  3      [ ]         STREAM     CONNECTED     3897847  
+unix  3      [ ]         STREAM     CONNECTED     3492844  
+unix  3      [ ]         STREAM     CONNECTED     203838   
+unix  3      [ ]         STREAM     CONNECTED     27246    
+unix  3      [ ]         STREAM     CONNECTED     3973840  
+unix  3      [ ]         STREAM     CONNECTED     3967167  
+unix  3      [ ]         STREAM     CONNECTED     29032    
+unix  3      [ ]         STREAM     CONNECTED     27233    
+unix  3      [ ]         STREAM     CONNECTED     27273    
+unix  3      [ ]         STREAM     CONNECTED     3895315  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     329876   
+unix  3      [ ]         STREAM     CONNECTED     2017151  
+unix  3      [ ]         STREAM     CONNECTED     27245    
+unix  3      [ ]         STREAM     CONNECTED     3880415  
+unix  3      [ ]         STREAM     CONNECTED     3879245  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3786235  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2732103  
+unix  3      [ ]         STREAM     CONNECTED     27252    
+unix  3      [ ]         STREAM     CONNECTED     3976664  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     327605   
+unix  2      [ ]         DGRAM                    3976522  
+unix  3      [ ]         STREAM     CONNECTED     934855   
+unix  3      [ ]         STREAM     CONNECTED     27854    
+unix  3      [ ]         STREAM     CONNECTED     27234    
+unix  2      [ ]         DGRAM                    3974110  
+unix  3      [ ]         STREAM     CONNECTED     3966355  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     3784149  /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    2818086  
+unix  3      [ ]         STREAM     CONNECTED     3976503  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27225    
+unix  3      [ ]         STREAM     CONNECTED     3888669  
+unix  3      [ ]         STREAM     CONNECTED     27192    
+unix  3      [ ]         STREAM     CONNECTED     3973772  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3823023  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3879246  
+unix  3      [ ]         STREAM     CONNECTED     2019458  
+unix  3      [ ]         STREAM     CONNECTED     3880406  
+unix  3      [ ]         STREAM     CONNECTED     3482022  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2019440  
+unix  3      [ ]         STREAM     CONNECTED     3492930  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     935108   /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     27248    
+unix  3      [ ]         STREAM     CONNECTED     3484323  
+unix  2      [ ]         DGRAM                    3481857  
+unix  3      [ ]         STREAM     CONNECTED     27221    
+unix  3      [ ]         STREAM     CONNECTED     3966377  
+unix  3      [ ]         STREAM     CONNECTED     27228    
+unix  3      [ ]         STREAM     CONNECTED     2817063  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27856    
+unix  3      [ ]         STREAM     CONNECTED     3880407  
+unix  3      [ ]         STREAM     CONNECTED     3975291  private/anvil
+unix  3      [ ]         STREAM     CONNECTED     2732105  
+unix  3      [ ]         STREAM     CONNECTED     27222    
+unix  3      [ ]         STREAM     CONNECTED     3880276  
+unix  2      [ ]         DGRAM                    3818776  
+unix  3      [ ]         STREAM     CONNECTED     27191    
+unix  2      [ ]         DGRAM                    3975700  
+unix  2      [ ]         DGRAM                    3975614  
+unix  3      [ ]         STREAM     CONNECTED     3973771  
+unix  3      [ ]         STREAM     CONNECTED     3880391  
+unix  3      [ ]         STREAM     CONNECTED     3973799  
+unix  3      [ ]         STREAM     CONNECTED     427329   
+unix  3      [ ]         STREAM     CONNECTED     329902   
+unix  3      [ ]         STREAM     CONNECTED     3966758  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3966794  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     8035     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3973766  
+unix  3      [ ]         STREAM     CONNECTED     3880416  
+unix  2      [ ]         DGRAM                    27166    
+unix  3      [ ]         STREAM     CONNECTED     3889431  
+unix  3      [ ]         STREAM     CONNECTED     27193    
+unix  3      [ ]         STREAM     CONNECTED     3965378  /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    3897738  
+unix  3      [ ]         STREAM     CONNECTED     3786232  
+unix  3      [ ]         STREAM     CONNECTED     27251    
+unix  3      [ ]         STREAM     CONNECTED     3976474  
+unix  3      [ ]         STREAM     CONNECTED     3784229  
+unix  3      [ ]         STREAM     CONNECTED     2817062  
+unix  3      [ ]         STREAM     CONNECTED     976526   
+unix  3      [ ]         STREAM     CONNECTED     2019682  
+unix  3      [ ]         STREAM     CONNECTED     976512   
+unix  3      [ ]         STREAM     CONNECTED     3966378  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3784219  
+unix  3      [ ]         STREAM     CONNECTED     27231    
+unix  3      [ ]         STREAM     CONNECTED     12314    /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    8850     
+unix  2      [ ]         DGRAM                    3961336  
+unix  3      [ ]         STREAM     CONNECTED     2732104  /var/run/dovecot/config
+unix  2      [ ]         DGRAM                    329719   
+unix  3      [ ]         STREAM     CONNECTED     11520    
+unix  2      [ ]         DGRAM                    3965303  
+unix  3      [ ]         STREAM     CONNECTED     3915760  
+unix  3      [ ]         STREAM     CONNECTED     2017149  
+unix  3      [ ]         STREAM     CONNECTED     3482021  
+unix  3      [ ]         STREAM     CONNECTED     2016987  
+unix  3      [ ]         STREAM     CONNECTED     27863    
+unix  3      [ ]         STREAM     CONNECTED     29034    
+unix  3      [ ]         STREAM     CONNECTED     12310    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3966354  
+unix  3      [ ]         STREAM     CONNECTED     3784222  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3976502  
+unix  3      [ ]         STREAM     CONNECTED     3481863  
+unix  3      [ ]         STREAM     CONNECTED     2019448  
+unix  3      [ ]         STREAM     CONNECTED     27914    
+unix  3      [ ]         STREAM     CONNECTED     3976388  /var/run/dovecot/auth-worker
+unix  3      [ ]         STREAM     CONNECTED     9150     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     8170     
+unix  3      [ ]         STREAM     CONNECTED     3893189  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3880408  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     27864    
+unix  3      [ ]         STREAM     CONNECTED     27237    
+unix  3      [ ]         STREAM     CONNECTED     3823987  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3481973  
+unix  3      [ ]         STREAM     CONNECTED     3786242  
+unix  3      [ ]         STREAM     CONNECTED     3484338  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     934856   
+unix  3      [ ]         STREAM     CONNECTED     3973703  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27227    
+unix  3      [ ]         STREAM     CONNECTED     3966793  
+unix  3      [ ]         STREAM     CONNECTED     27825    
+unix  3      [ ]         STREAM     CONNECTED     3973800  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3966784  
+unix  3      [ ]         STREAM     CONNECTED     206154   
+unix  3      [ ]         STREAM     CONNECTED     27912    
+unix  3      [ ]         STREAM     CONNECTED     27236    
+unix  2      [ ]         DGRAM                    3974114  
+unix  2      [ ]         DGRAM                    3975978  
+unix  3      [ ]         STREAM     CONNECTED     3965382  
+unix  3      [ ]         STREAM     CONNECTED     3888665  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     3823945  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3888668  
+unix  3      [ ]         STREAM     CONNECTED     3481974  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3976527  private/anvil
+unix  2      [ ]         DGRAM                    8943     
+unix  3      [ ]         STREAM     CONNECTED     27212    
+unix  3      [ ]         STREAM     CONNECTED     7853     
+unix  3      [ ]         STREAM     CONNECTED     3968197  
+unix  3      [ ]         STREAM     CONNECTED     425674   
+unix  3      [ ]         STREAM     CONNECTED     27269    
+unix  3      [ ]         STREAM     CONNECTED     27197    
+unix  2      [ ]         DGRAM                    3975313  
+unix  3      [ ]         STREAM     CONNECTED     206139   
+unix  3      [ ]         STREAM     CONNECTED     27446    
+unix  3      [ ]         STREAM     CONNECTED     3823940  
+unix  3      [ ]         STREAM     CONNECTED     46916    
+unix  3      [ ]         STREAM     CONNECTED     206142   /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     2732120  
+unix  3      [ ]         STREAM     CONNECTED     27216    
+unix  3      [ ]         STREAM     CONNECTED     3966379  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     46903    /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3905633  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3975889  
+unix  3      [ ]         STREAM     CONNECTED     3895306  
+unix  3      [ ]         STREAM     CONNECTED     206140   /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     7854     
+unix  3      [ ]         STREAM     CONNECTED     3976699  
+unix  2      [ ]         DGRAM                    3974831  
+unix  3      [ ]         STREAM     CONNECTED     3965310  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3786158  
+unix  3      [ ]         STREAM     CONNECTED     7930     
+unix  3      [ ]         STREAM     CONNECTED     3777947  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27203    
+unix  3      [ ]         STREAM     CONNECTED     10045    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     7923     
+unix  3      [ ]         STREAM     CONNECTED     3976587  
+unix  3      [ ]         STREAM     CONNECTED     3967266  
+unix  3      [ ]         STREAM     CONNECTED     3880271  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3965383  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     935109   
+unix  3      [ ]         STREAM     CONNECTED     27200    
+unix  3      [ ]         STREAM     CONNECTED     3786243  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3976475  /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    3968133  
+unix  3      [ ]         STREAM     CONNECTED     425675   /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     203807   /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     3895304  
+unix  3      [ ]         STREAM     CONNECTED     3534920  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     9401     
+unix  3      [ ]         STREAM     CONNECTED     3917890  
+unix  2      [ ]         DGRAM                    9955     
+unix  3      [ ]         STREAM     CONNECTED     27257    
+unix  3      [ ]         STREAM     CONNECTED     3967259  
+unix  3      [ ]         STREAM     CONNECTED     27266    
+unix  3      [ ]         STREAM     CONNECTED     27210    
+unix  3      [ ]         STREAM     CONNECTED     3976588  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3492914  
+unix  3      [ ]         STREAM     CONNECTED     9411     @/com/ubuntu/upstart
+unix  3      [ ]         STREAM     CONNECTED     3976698  private/tlsmgr
+unix  3      [ ]         STREAM     CONNECTED     2019457  
+unix  3      [ ]         STREAM     CONNECTED     202388   /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3777939  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3895303  
+unix  3      [ ]         STREAM     CONNECTED     27275    
+unix  3      [ ]         STREAM     CONNECTED     3905680  
+unix  3      [ ]         STREAM     CONNECTED     3777938  
+unix  3      [ ]         STREAM     CONNECTED     27258    
+unix  3      [ ]         STREAM     CONNECTED     27207    
+unix  3      [ ]         STREAM     CONNECTED     3976697  
+unix  3      [ ]         STREAM     CONNECTED     7787     
+unix  2      [ ]         DGRAM                    3975293  
+unix  3      [ ]         STREAM     CONNECTED     3740603  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3880386  
+unix  3      [ ]         STREAM     CONNECTED     3534919  
+unix  3      [ ]         STREAM     CONNECTED     3492929  
+unix  3      [ ]         STREAM     CONNECTED     3966786  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27254    
+unix  3      [ ]         STREAM     CONNECTED     27204    
+unix  3      [ ]         STREAM     CONNECTED     3976655  
+unix  3      [ ]         STREAM     CONNECTED     46905    /var/run/dovecot/anvil
+unix  2      [ ]         DGRAM                    27308    
+unix  3      [ ]         STREAM     CONNECTED     7986     @/com/ubuntu/upstart
+unix  2      [ ]         DGRAM                    3824171  
+unix  3      [ ]         STREAM     CONNECTED     27447    
+unix  3      [ ]         STREAM     CONNECTED     3534922  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     3966783  
+unix  3      [ ]         STREAM     CONNECTED     329877   
+unix  3      [ ]         STREAM     CONNECTED     3534932  
+unix  3      [ ]         STREAM     CONNECTED     3824234  
+unix  3      [ ]         STREAM     CONNECTED     2017150  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3823944  
+unix  2      [ ]         DGRAM                    11621    
+unix  3      [ ]         STREAM     CONNECTED     27242    
+unix  3      [ ]         STREAM     CONNECTED     3967161  
+unix  3      [ ]         STREAM     CONNECTED     3492978  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2016982  
+unix  3      [ ]         STREAM     CONNECTED     3976384  
+unix  3      [ ]         STREAM     CONNECTED     3481965  
+unix  3      [ ]         STREAM     CONNECTED     27924    
+unix  3      [ ]         STREAM     CONNECTED     27913    /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     29035    /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     27272    
+unix  3      [ ]         STREAM     CONNECTED     3917843  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3879205  
+unix  3      [ ]         STREAM     CONNECTED     27826    
+unix  2      [ ]         DGRAM                    8827     
+unix  3      [ ]         STREAM     CONNECTED     8176     
+unix  3      [ ]         STREAM     CONNECTED     3973702  
+unix  2      [ ]         DGRAM                    3894924  
+unix  3      [ ]         STREAM     CONNECTED     3889429  
+unix  3      [ ]         STREAM     CONNECTED     3823016  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3484337  
+unix  3      [ ]         STREAM     CONNECTED     27243    
+unix  3      [ ]         STREAM     CONNECTED     3966353  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     327606   /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     202528   /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     3784218  
+unix  3      [ ]         STREAM     CONNECTED     976514   
+unix  3      [ ]         STREAM     CONNECTED     203841   
+unix  3      [ ]         STREAM     CONNECTED     27240    
+unix  3      [ ]         STREAM     CONNECTED     2732106  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     27219    
+unix  3      [ ]         STREAM     CONNECTED     3481966  
+unix  3      [ ]         STREAM     CONNECTED     2017152  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     8181     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3966757  
+unix  3      [ ]         STREAM     CONNECTED     3917828  
+unix  3      [ ]         STREAM     CONNECTED     3784148  
+unix  3      [ ]         STREAM     CONNECTED     3967166  
+unix  3      [ ]         STREAM     CONNECTED     3896236  
+unix  3      [ ]         STREAM     CONNECTED     29033    /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3786234  
+unix  3      [ ]         STREAM     CONNECTED     934852   
+unix  3      [ ]         STREAM     CONNECTED     327650   /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3824279  
+unix  3      [ ]         STREAM     CONNECTED     3824233  
+unix  3      [ ]         STREAM     CONNECTED     203840   
+unix  3      [ ]         STREAM     CONNECTED     3893188  
+unix  3      [ ]         STREAM     CONNECTED     329903   /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    9132     
+unix  3      [ ]         STREAM     CONNECTED     8034     
+unix  3      [ ]         STREAM     CONNECTED     29067    /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     3975284  
+unix  3      [ ]         STREAM     CONNECTED     427330   
+unix  2      [ ]         DGRAM                    9148     
+unix  3      [ ]         STREAM     CONNECTED     3823986  
+unix  3      [ ]         STREAM     CONNECTED     3481864  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2817077  
+unix  3      [ ]         STREAM     CONNECTED     2019439  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3976448  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3485691  
+unix  3      [ ]         STREAM     CONNECTED     3492977  
+unix  3      [ ]         STREAM     CONNECTED     2019438  
+unix  3      [ ]         STREAM     CONNECTED     27224    
+unix  3      [ ]         STREAM     CONNECTED     3976471  
+unix  3      [ ]         STREAM     CONNECTED     12313    
+unix  3      [ ]         STREAM     CONNECTED     29145    /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     12321    /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3973767  
+unix  3      [ ]         STREAM     CONNECTED     3880275  
+unix  3      [ ]         STREAM     CONNECTED     3880390  
+unix  3      [ ]         STREAM     CONNECTED     202526   /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3915761  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     327649   
+unix  3      [ ]         STREAM     CONNECTED     2016986  
+unix  3      [ ]         STREAM     CONNECTED     12309    
+unix  3      [ ]         STREAM     CONNECTED     2019446  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     976513   /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     27923    
+unix  3      [ ]         STREAM     CONNECTED     27249    
+unix  2      [ ]         DGRAM                    11342    
+unix  3      [ ]         STREAM     CONNECTED     8171     
+unix  3      [ ]         STREAM     CONNECTED     3880272  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     27230    
+unix  2      [ ]         DGRAM                    3974106  
+unix  3      [ ]         STREAM     CONNECTED     3784230  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     27239    
+unix  3      [ ]         STREAM     CONNECTED     425673   /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3824238  
+unix  3      [ ]         STREAM     CONNECTED     3879257  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3534931  
+unix  3      [ ]         STREAM     CONNECTED     3976663  
+unix  3      [ ]         STREAM     CONNECTED     3818783  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2019449  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     2019683  
+unix  3      [ ]         STREAM     CONNECTED     27855    /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     27270    
+unix  3      [ ]         STREAM     CONNECTED     3917842  
+unix  3      [ ]         STREAM     CONNECTED     3784221  
+unix  3      [ ]         STREAM     CONNECTED     3896237  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3880387  /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     206153   
+unix  3      [ ]         STREAM     CONNECTED     3976472  
+unix  3      [ ]         STREAM     CONNECTED     976525   
+unix  3      [ ]         STREAM     CONNECTED     976515   /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     3965377  
+unix  3      [ ]         STREAM     CONNECTED     3818847  
+unix  3      [ ]         STREAM     CONNECTED     3492845  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3484324  
+unix  3      [ ]         STREAM     CONNECTED     3897846  
+unix  3      [ ]         STREAM     CONNECTED     3889430  /var/run/dovecot/config
+unix  3      [ ]         STREAM     CONNECTED     3484334  @/tmp/dbus-crop31RFVh
+unix  3      [ ]         STREAM     CONNECTED     202527   
+unix  3      [ ]         STREAM     CONNECTED     3818782  
+unix  3      [ ]         STREAM     CONNECTED     27190    
+unix  3      [ ]         STREAM     CONNECTED     3818848  
+unix  3      [ ]         STREAM     CONNECTED     3786231  
+unix  3      [ ]         STREAM     CONNECTED     27218    
+unix  2      [ ]         DGRAM                    3974102  
+unix  3      [ ]         STREAM     CONNECTED     3974887  /var/run/dovecot/anvil-auth-penalty
+unix  3      [ ]         STREAM     CONNECTED     3917829  
+unix  3      [ ]         STREAM     CONNECTED     11353    
+unix  2      [ ]         DGRAM                    8167     
+unix  3      [ ]         STREAM     CONNECTED     3976652  
+unix  3      [ ]         STREAM     CONNECTED     27215    
+unix  3      [ ]         STREAM     CONNECTED     3779210  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3879204  
+unix  3      [ ]         STREAM     CONNECTED     3823893  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3976700  private/rewrite
+unix  2      [ ]         DGRAM                    3779203  
+unix  3      [ ]         STREAM     CONNECTED     203811   
+unix  3      [ ]         STREAM     CONNECTED     27196    
+unix  3      [ ]         STREAM     CONNECTED     3777946  
+unix  3      [ ]         STREAM     CONNECTED     7924     /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3905681  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     935110   /var/run/dovecot/anvil
+unix  3      [ ]         STREAM     CONNECTED     46915    
+unix  3      [ ]         STREAM     CONNECTED     3824175  
+unix  3      [ ]         DGRAM                    8228     
+unix  3      [ ]         STREAM     CONNECTED     27213    
+unix  3      [ ]         STREAM     CONNECTED     203806   
+unix  3      [ ]         STREAM     CONNECTED     3965374  
+unix  2      [ ]         DGRAM                    3823886  
+unix  3      [ ]         STREAM     CONNECTED     202389   
+unix  2      [ ]         DGRAM                    2663494  
+unix  3      [ ]         STREAM     CONNECTED     3976656  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     2732121  
+unix  3      [ ]         STREAM     CONNECTED     27260    
+unix  3      [ ]         STREAM     CONNECTED     10044    
+unix  3      [ ]         STREAM     CONNECTED     3786159  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3779209  
+unix  3      [ ]         STREAM     CONNECTED     27206    
+unix  2      [ ]         DGRAM                    3786152  
+unix  3      [ ]         STREAM     CONNECTED     3777936  
+unix  3      [ ]         STREAM     CONNECTED     427326   
+unix  3      [ ]         STREAM     CONNECTED     46904    
+unix  2      [ ]         DGRAM                    3975553  
+unix  3      [ ]         STREAM     CONNECTED     3823941  
+unix  2      [ ]         DGRAM                    3492838  
+unix  3      [ ]         STREAM     CONNECTED     46902    
+unix  3      [ ]         STREAM     CONNECTED     27195    
+unix  3      [ ]         STREAM     CONNECTED     3976702  private/proxymap
+unix  3      [ ]         STREAM     CONNECTED     3777935  
+unix  3      [ ]         STREAM     CONNECTED     27263    
+unix  3      [ ]         STREAM     CONNECTED     3492913  
+unix  3      [ ]         STREAM     CONNECTED     3917891  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3823892  
+unix  3      [ ]         STREAM     CONNECTED     3967265  
+unix  3      [ ]         STREAM     CONNECTED     27264    
+unix  3      [ ]         STREAM     CONNECTED     27201    
+unix  3      [ ]         STREAM     CONNECTED     3895307  /var/run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     3965375  
+unix  3      [ ]         STREAM     CONNECTED     7794     @/com/ubuntu/upstart
+unix  3      [ ]         STREAM     CONNECTED     27276    
+unix  3      [ ]         STREAM     CONNECTED     3534921  
+unix  3      [ ]         STREAM     CONNECTED     3740602  
+unix  2      [ ]         DGRAM                    3915754  
+unix  3      [ ]         STREAM     CONNECTED     27209    
+unix  3      [ ]         STREAM     CONNECTED     3976653  
+unix  3      [ ]         STREAM     CONNECTED     3965309  
+unix  3      [ ]         STREAM     CONNECTED     27261    
+unix  3      [ ]         STREAM     CONNECTED     3976701  
+unix  3      [ ]         STREAM     CONNECTED     3905632  
+unix  3      [ ]         STREAM     CONNECTED     27255    
+unix  3      [ ]         STREAM     CONNECTED     206141   
+unix  3      [ ]         DGRAM                    8227     
+unix  3      [ ]         STREAM     CONNECTED     203812   
+unix  3      [ ]         STREAM     CONNECTED     3895314  
+unix  3      [ ]         STREAM     CONNECTED     3824176  /var/run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    3784772  
+unix  3      [ ]         STREAM     CONNECTED     27267    
+unix  3      [ ]         STREAM     CONNECTED     27198    

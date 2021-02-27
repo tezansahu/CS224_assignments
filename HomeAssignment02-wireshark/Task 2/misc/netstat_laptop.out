@@ -1,0 +1,38 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    ProfVarshaApte:1027    localhost:27015        ESTABLISHED
+  TCP    ProfVarshaApte:1170    localhost:1172         ESTABLISHED
+  TCP    ProfVarshaApte:1170    localhost:1173         ESTABLISHED
+  TCP    ProfVarshaApte:1170    localhost:1174         ESTABLISHED
+  TCP    ProfVarshaApte:1170    localhost:1175         ESTABLISHED
+  TCP    ProfVarshaApte:1172    localhost:1170         ESTABLISHED
+  TCP    ProfVarshaApte:1173    localhost:1170         ESTABLISHED
+  TCP    ProfVarshaApte:1174    localhost:1170         ESTABLISHED
+  TCP    ProfVarshaApte:1175    localhost:1170         ESTABLISHED
+  TCP    ProfVarshaApte:1821    localhost:1822         ESTABLISHED
+  TCP    ProfVarshaApte:1822    localhost:1821         ESTABLISHED
+  TCP    ProfVarshaApte:2307    localhost:2428         ESTABLISHED
+  TCP    ProfVarshaApte:2428    localhost:2307         ESTABLISHED
+  TCP    ProfVarshaApte:3191    localhost:6000         ESTABLISHED
+  TCP    ProfVarshaApte:6000    localhost:3191         ESTABLISHED
+  TCP    ProfVarshaApte:27015   localhost:1027         ESTABLISHED
+  TCP    ProfVarshaApte:3130    sin01s17-in-f5.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3131    74.125.68.84:https     ESTABLISHED
+  TCP    ProfVarshaApte:3134    bom03s01-in-f24.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3135    74.125.130.188:5228    ESTABLISHED
+  TCP    ProfVarshaApte:3136    sin01s17-in-f5.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3137    sin04s01-in-f0.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3138    bom04s02-in-f19.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3145    74.125.68.189:https    ESTABLISHED
+  TCP    ProfVarshaApte:3146    74.125.68.189:https    ESTABLISHED
+  TCP    ProfVarshaApte:3147    74.125.68.189:https    ESTABLISHED
+  TCP    ProfVarshaApte:3149    sin04s01-in-f2.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3151    sin01s14-in-f4.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3157    bom04s02-in-f22.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3158    bom04s02-in-f22.1e100.net:https  ESTABLISHED
+  TCP    ProfVarshaApte:3161    login.iitb.ac.in:5022  ESTABLISHED
+  TCP    ProfVarshaApte:3176    192.168.0.1:http       TIME_WAIT
+  TCP    ProfVarshaApte:3178    192.168.0.1:http       TIME_WAIT
+  TCP    ProfVarshaApte:3199    192.168.0.1:http       ESTABLISHED
